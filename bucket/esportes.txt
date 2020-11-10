@@ -1,0 +1,91 @@
+Atletismo
+Automobilismo
+Badminton
+Basquete
+Basquete 3×3
+Beachtennis
+Beisebol
+Biribol
+BMX
+Bobsled
+Bocha
+Bodyboard
+Boliche
+Boxe
+Canoagem
+Capoeira
+Cheerleading
+Ciclismo de Estrada
+Ciclismo de Pista
+Corrida de Rua
+Cross Country
+Crossfit
+Curling
+Dama
+Dança Esportiva
+Escalada Esportiva
+Esgrima
+E-Sports
+Fisiculturismo
+Futebol
+Futebol Freestyle
+Futebol Americano
+Futebol de Areia
+Futevôlei
+Futsal
+Ginástica Artística
+Ginástica Ritmica
+Goalball
+Golfe
+Handebol
+Highline
+Hipismo
+Hóquei
+Hóquei de Grama
+Jiu-Jitsu
+Jogo de Malha
+Judô
+Karatê
+Kickboxing
+Kitesurfe
+Kung Fu
+Levantamento de Peso
+Luge
+MMA
+Motociclismo
+Mountain Biking
+Muay Thai
+Nado Artístico
+Natação
+Parapente
+Patinação
+Patinação Artística no Gelo
+Patinação de Velocidade no Gelo
+Polo Aquático
+Rafting
+Remo
+Rugby
+Saltos Ornamentais
+Skate
+Skeleton
+Ski Esportivo
+Slackline
+Snowboard Esportivo
+Softball
+Squash
+Stand Up Paddle
+Surfe
+Taekwondo
+Tiro com Arco
+Tiro Esportivo
+Triathlon
+Tênis
+Tênis de Mesa
+Vela
+Voo Livre
+Voleibol
+Voleibol de Praia
+Windsurf
+Wingsuit
+Wrestling
+Xadrez
